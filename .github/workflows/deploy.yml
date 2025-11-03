@@ -7,7 +7,7 @@ on:
 
 env:
   # Używaj małych liter — GHCR tegoss wymaga
-  IMAGE_NAME: ghcr.io/posionjoke/friendfromdis-v3
+  IMAGE_NAME: ghcr.io/npexe/friendfromdis-v3
 
 jobs:
   build:
